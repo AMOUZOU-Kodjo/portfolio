@@ -88,7 +88,7 @@ main{
 }
 
 section{
-    min-height: 100vh;
+    height: 100vh;
     /* padding: 20px; */
     margin-top: 1rem;
 }
