@@ -183,7 +183,7 @@ section.active{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    margin-top: 2.2rem;
+   /* margin-top: 2.2rem;*/
 }
 
 .profil .profil-container::before,
@@ -276,7 +276,7 @@ section.active{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
-    margin-top: 3rem;
+   /* margin-top: 3rem;*/
     
 }
 
