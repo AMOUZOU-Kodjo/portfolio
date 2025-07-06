@@ -142,7 +142,7 @@ section.active{
     border-radius: 1rem ;
     border: .1rem solid var(--var-bg-color);
     transition: 0.5s;
-    margin-top: 2.2rem;
+   /* margin-top: 2.2rem;*/
     
 }
 .home-detail:hover{
